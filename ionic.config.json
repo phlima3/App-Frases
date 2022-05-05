@@ -1,0 +1,7 @@
+{
+  "name": "tambler",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
